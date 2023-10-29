@@ -3,7 +3,10 @@ body {
     font-size: 25px;
     margin: 0;
 }
-
+.div
+{
+     text-align: center;
+}
 #mainForm{
     display: flex;
     flex-direction: column;
