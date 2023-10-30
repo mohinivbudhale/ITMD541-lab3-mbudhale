@@ -35,6 +35,12 @@ div
 #tip{
   width: 175px;
 }
+#tipValue {
+        position: absolute;
+        top: -20px; 
+        left: 50%;
+        transform: translateX(-50%);
+    }
 #heading{
     font-size: 50px;
     padding-top: 2rem;
